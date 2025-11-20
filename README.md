@@ -17,7 +17,7 @@
     example=123 ভুল
 
     intersection:
-```
+```ts
     type Student={
         id:number;
         name:string;
@@ -37,4 +37,4 @@
         salary:25000
     }
 
-    ```
+    ```ts
