@@ -16,7 +16,7 @@
     example=true  ঠিক আছে
     example=123 ভুল
 
-    intersection:
+    <!-- intersection: -->
     type CombineUserAndAdmin=User & Admin;
 
     
