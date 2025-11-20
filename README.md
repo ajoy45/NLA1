@@ -17,24 +17,6 @@
     example=123 ভুল
 
     intersection:
-```ts
-    type Student={
-        id:number;
-        name:string;
-    }
+    type CombineUserAndAdmin=User & Admin;
 
-    type Teacher={
-        profession:string;
-        salary:number
-    }
-
-    type CombineStudentAndTeacher=Student & Teacher;
-
-    const example2:CombineStudentAndTeacher={
-        id:123,
-        name:"Mr.Y",
-        profession:"teacher",
-        salary:25000
-    }
-
-    ```ts
+    
