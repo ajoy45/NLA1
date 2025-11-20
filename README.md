@@ -8,6 +8,7 @@
 
   2.Provide an example of using union and intersection types in TypeScript.
    union:
+   
    type User=string;
    type Admin=boolean;
    type UserOrAdmin=string|boolean;
